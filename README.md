@@ -11,6 +11,10 @@ Using the pins:
 
 Relevant code and file are in the src file.
 
+Video and pictures demo are in the demo file.
+
+Report is in the report file.
+
 “无线监控系统设计”主要使用STM32完成，包括对室内进行温度采集的收集采样功能，远程发送的传输传导功能，高温报警的阈值判断功能等。
 
 其中远程发送可以使用以太网，也可以选择使用无线通信的方式发送相关信息。
@@ -22,3 +26,7 @@ Relevant code and file are in the src file.
 			ir			PA4
 
 相关代码及配置见src文件夹。
+
+视频及图片演示在demo文件夹中。
+
+报告文件在Report中。
