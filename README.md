@@ -25,7 +25,8 @@ Main
 └── Requirement -- Environment configuration  
 
 ## Demonstration Video  
-Baidu Netdisk link:  
+Baidu Netdisk link:  Detection_Video_demo.mp4  
+Link: https://pan.baidu.com/s/1glfwlx05e6KSf9tHivTiQg Code: 1234  
 
 # 无线环境监控系统
 
@@ -54,4 +55,5 @@ Main
 └── Requirment          # 环境配置  
 
 ## 演示视频  
-百度网盘链接：
+百度网盘链接：通过网盘分享的文件：Detection_Video_demo.mp4  
+链接: https://pan.baidu.com/s/1glfwlx05e6KSf9tHivTiQg 提取码: 1234  
