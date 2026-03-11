@@ -9,6 +9,7 @@ This project designs and implements an indoor wireless environmental monitoring 
 **Infrared Human Body Sensing**: Uses the HC-SR501 module to detect people entering or leaving.  
 **Wireless Data Transmission**: Sends data to the host computer via the ESP8266 Wi-Fi module (STA mode).  
 **Main Control Chip**: STM32F103 (Wildfire - Guider development board)  
+<img width="5920" height="2664" alt="Transfer_4" src="https://github.com/user-attachments/assets/6b45758b-1c8b-4fa8-a30f-69da00f2787e" />
 
 ## System Architecture  
 **Data Acquisition Layer**: DHT11 and HC-SR501 - Collect environmental information  
@@ -39,6 +40,7 @@ Link: https://pan.baidu.com/s/1glfwlx05e6KSf9tHivTiQg Code: 1234
 **红外人体感应**：使用HC-SR501模块，检测人员进出。  
 **无线数据传输**：通过ESP8266 Wi-Fi模块（STA模式）将数据发送至上位机。  
 **主控芯片**：STM32F103（野火-指南者开发板）  
+<img width="2212" height="1087" alt="QQ20260311-145120" src="https://github.com/user-attachments/assets/a09535ca-5f38-4196-b24c-aa31e1a4bb0e" />
 
 ## 系统架构  
 **数据采集层**：DHT11 和 HC-SR501	采集环境信息  
